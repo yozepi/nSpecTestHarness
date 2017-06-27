@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("nSpecTestHarness")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A Visual Studio test harness for NSpec")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("nSpecTestHarness")]
